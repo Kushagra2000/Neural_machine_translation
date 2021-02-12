@@ -1,18 +1,9 @@
 from flask import Flask, render_template, request
-from google.protobuf import message
 import tensorflow as tf
-from tensorflow import keras
 import pandas as pd
 import numpy as np
 import re
 import unicodedata
-from sklearn.model_selection import train_test_split
-from tensorflow.keras.layers import LSTM, Dense, TimeDistributed, Activation,InputLayer,Embedding
-from tensorflow.keras.losses import sparse_categorical_crossentropy,categorical_crossentropy
-from tensorflow.keras.models import Model
-from tensorflow.keras.optimizers import Adam
-import IPython
-from keras.utils import to_categorical
 
 
 app = Flask(__name__,template_folder='template')
