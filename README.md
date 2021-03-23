@@ -1,5 +1,7 @@
 # Neural_machine_translation
-Machine Translation of small simple English sentences to German. Currently 82% accurate
+Machine Translation of small simple English sentences to German. 
+
+Currently 82% accurate.
 
 Dataset taken from https://www.manythings.org/anki/deu-eng.zip
 
