@@ -1,9 +1,9 @@
 # Neural_machine_translation
-Machine Translation of small simple English sentences to German
+Machine Translation of small simple English sentences to German. Currently 82% accurate
 
 Dataset taken from https://www.manythings.org/anki/deu-eng.zip
 
-Model Deployment URL: https://modelappuniquename.azurewebsites.net/
+Model Deployment URL: https://modelappuniquename.azurewebsites.net/ (Deployment link is down due to expiry of azure credits. Will be redeployed soon.)
 
 References: 
 https://stackoverflow.com/questions/38250710/how-to-split-data-into-3-sets-train-validation-and-test
